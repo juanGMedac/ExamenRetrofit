@@ -7,6 +7,7 @@ import retrofit2.http.Body;
 import retrofit2.http.GET;
 import retrofit2.http.POST;
 
+// Interfaces para Retrofit
 public interface ServicioWeb {
 
     // PEGA AQUÍ LA PARTE LARGA DE TU URL (sin el https://script.google.com/)
